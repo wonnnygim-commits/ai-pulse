@@ -19,3 +19,6 @@ Public two-column time-series dashboard. Collected 2026-11-12. No scheduled refr
 Working collector/build source lives in the owner's local `artifacts/ai-pulse/` workspace (`collect_long.py`, `build_long.py`, `research/`). Public repo intentionally contains only sanitized numeric datasets and rendered assets, not browser captures. Re-run collection and the builder before committing a refreshed snapshot. No browser-refresh control falsely implies fresh upstream data.
 
 Plotly.js 3.1.0 is vendored under the MIT license; see vendor/LICENSE.plotly.
+
+## 2026-11-13 top section
+Ramp volume and spend lead the grid. OpenRouter Rankings Top Models follows full-width, distinct from the programming collection share chart below. Public chart data covers 53 weekly buckets (2025-11-10–2026-11-09), data through 2026-11-12. Stack reproduces each period's top nine models + Others; absent model cells are null, not asserted zero usage. Source forecast series is excluded; latest bucket is incomplete. Values divided by 1e12 for T tokens. Source: OpenRouter (https://openrouter.ai/rankings), retrieved 2026-11-13. Licensed under CC BY 4.0. All weekly stack totals checked against source. No API credentials or private traffic used.

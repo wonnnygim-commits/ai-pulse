@@ -1,0 +1,3 @@
+﻿dataset_id,series_id,series,date,value,unit,point_label,point_source,dataset_sources,archive_version
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-12,27199,건,,,https://github.com/openai/codex/issues,ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-16,27460,건,,,https://github.com/openai/codex/issues,ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc

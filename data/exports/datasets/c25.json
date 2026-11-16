@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "id": "c25",
+    "title": "GitClear · AI 작성 커밋 비중",
+    "unit": "%",
+    "kind": "unavailable",
+    "start": "",
+    "end": "",
+    "note": "원시 시계열 접근 제한. 기존 문서의 25% 수치는 이 지표로 검증되지 않아 제외했습니다.",
+    "sources": [
+      {
+        "name": "GitClear",
+        "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 0,
+    "series_count": 0,
+    "csv": "datasets/c25.csv",
+    "json": "datasets/c25.json"
+  },
+  "observations": []
+}

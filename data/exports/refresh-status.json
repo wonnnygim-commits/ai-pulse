@@ -1,0 +1,44 @@
+{
+  "attemptedAt": "2026-11-16T07:43:48.571921+00:00",
+  "ok": [
+    "npm:@openai/codex",
+    "npm:@anthropic-ai/claude-code",
+    "npm:@google/gemini-cli",
+    "npm:@mariozechner/pi-coding-agent",
+    "npm:@kilocode/cli",
+    "pypi:hermes-agent",
+    "pypi:aider-chat",
+    "github:openai/codex",
+    "github:anthropics/claude-code",
+    "ramp-monthly",
+    "router-coding",
+    "vsx"
+  ],
+  "errors": [
+    {
+      "id": "RAMPAIALL",
+      "detail": "[Errno 60] Operation timed out"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "detail": "[Errno 60] Operation timed out"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "detail": "The read operation timed out"
+    }
+  ],
+  "agentReviewRequired": [
+    "Ramp token price/volume/spend",
+    "OpenRouter Top Models",
+    "seven company disclosure charts",
+    "GitClear availability"
+  ],
+  "vsxRetrySucceededAt": "2026-11-16T07:51:26.060074+00:00",
+  "schedule": {
+    "time": "09:00",
+    "timezone": "Asia/Seoul",
+    "execution": "owner Mac / OpenClaw",
+    "next_run": "2026-11-17T09:00:00+09:00"
+  }
+}

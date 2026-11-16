@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "c22",
+    "title": "GitHub · 에이전트 PR 비중",
+    "unit": "%",
+    "kind": "events",
+    "start": "2026-03-01",
+    "end": "2026-09-01",
+    "note": "월간 공개 관측점만 표시. 날짜의 일자는 월 표시용이며 중간 월을 추정하지 않습니다.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 2,
+    "series_count": 1,
+    "csv": "datasets/c22.csv",
+    "json": "datasets/c22.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c22",
+      "series_id": "c22_1b2909d74bea1f29",
+      "series": "GitHub · 에이전트 PR 비중",
+      "date": "2026-03-01",
+      "value": 17,
+      "unit": "%",
+      "point_label": "2026년 3월 · 17%",
+      "point_source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "dataset_sources": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c22",
+      "series_id": "c22_1b2909d74bea1f29",
+      "series": "GitHub · 에이전트 PR 비중",
+      "date": "2026-09-01",
+      "value": 40,
+      "unit": "%",
+      "point_label": "2026년 9월 · 40% 초과",
+      "point_source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "dataset_sources": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

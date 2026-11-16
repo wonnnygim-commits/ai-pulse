@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "id": "c18",
+    "title": "Cursor · 연환산 반복 매출",
+    "unit": "십억 USD",
+    "kind": "events",
+    "start": "2025-01-16",
+    "end": "2025-11-13",
+    "note": "직접 회사 발표를 확인한 관측점. 이후 언론 추정치는 제외; 마지막 관측값이 현재 매출을 뜻하지 않습니다.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://cursor.com/blog/series-b"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://cursor.com/blog/series-c"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://cursor.com/blog/series-d"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 3,
+    "series_count": 1,
+    "csv": "datasets/c18.csv",
+    "json": "datasets/c18.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c18",
+      "series_id": "c18_f57b5f93be646257",
+      "series": "Cursor · 연환산 반복 매출",
+      "date": "2025-01-16",
+      "value": 0.1,
+      "unit": "십억 USD",
+      "point_label": "0.1B 초과",
+      "point_source": "https://cursor.com/blog/series-b",
+      "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c18",
+      "series_id": "c18_f57b5f93be646257",
+      "series": "Cursor · 연환산 반복 매출",
+      "date": "2025-06-06",
+      "value": 0.5,
+      "unit": "십억 USD",
+      "point_label": "0.5B 초과",
+      "point_source": "https://cursor.com/blog/series-c",
+      "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c18",
+      "series_id": "c18_f57b5f93be646257",
+      "series": "Cursor · 연환산 반복 매출",
+      "date": "2025-11-13",
+      "value": 1,
+      "unit": "십억 USD",
+      "point_label": "1B 초과",
+      "point_source": "https://cursor.com/blog/series-d",
+      "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

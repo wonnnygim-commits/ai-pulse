@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "id": "c17",
+    "title": "Claude Code · 매출 run-rate",
+    "unit": "십억 USD",
+    "kind": "events",
+    "start": "2025-09-02",
+    "end": "2026-02-12",
+    "note": "제품 단위 · 회사 전체 매출과 구분. 발표일 관측점만 표시.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+      },
+      {
+        "name": "추가 발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 3,
+    "series_count": 1,
+    "csv": "datasets/c17.csv",
+    "json": "datasets/c17.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c17",
+      "series_id": "c17_085cf3dbfcc019d6",
+      "series": "Claude Code · 매출 run-rate",
+      "date": "2025-09-02",
+      "value": 0.5,
+      "unit": "십억 USD",
+      "point_label": "0.5B 초과",
+      "point_source": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c17",
+      "series_id": "c17_085cf3dbfcc019d6",
+      "series": "Claude Code · 매출 run-rate",
+      "date": "2025-11-01",
+      "value": 1,
+      "unit": "십억 USD",
+      "point_label": "2025년 11월 · 1B · 월 표시용 날짜",
+      "point_source": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c17",
+      "series_id": "c17_085cf3dbfcc019d6",
+      "series": "Claude Code · 매출 run-rate",
+      "date": "2026-02-12",
+      "value": 2.5,
+      "unit": "십억 USD",
+      "point_label": "2.5B 초과",
+      "point_source": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

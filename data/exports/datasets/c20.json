@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "id": "c20",
+    "title": "Codex · 주간 활성 사용자",
+    "unit": "백만 명",
+    "kind": "events",
+    "start": "2026-02-27",
+    "end": "2026-06-02",
+    "note": "OpenAI 발표일 기준 비정기 관측. ChatGPT와 합산한 수치는 제외.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://openai.com/index/scaling-ai-for-everyone/"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://openai.com/index/codex-for-knowledge-work/"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 3,
+    "series_count": 1,
+    "csv": "datasets/c20.csv",
+    "json": "datasets/c20.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c20",
+      "series_id": "c20_0da908bfc252126d",
+      "series": "Codex · 주간 활성 사용자",
+      "date": "2026-02-27",
+      "value": 1.6,
+      "unit": "백만 명",
+      "point_label": "1.6M",
+      "point_source": "https://openai.com/index/scaling-ai-for-everyone/",
+      "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c20",
+      "series_id": "c20_0da908bfc252126d",
+      "series": "Codex · 주간 활성 사용자",
+      "date": "2026-03-31",
+      "value": 2,
+      "unit": "백만 명",
+      "point_label": "2M 초과",
+      "point_source": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c20",
+      "series_id": "c20_0da908bfc252126d",
+      "series": "Codex · 주간 활성 사용자",
+      "date": "2026-06-02",
+      "value": 5,
+      "unit": "백만 명",
+      "point_label": "5M 초과",
+      "point_source": "https://openai.com/index/codex-for-knowledge-work/",
+      "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

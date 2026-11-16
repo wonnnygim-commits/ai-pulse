@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "id": "c16",
+    "title": "Anthropic · 매출 run-rate",
+    "unit": "십억 USD",
+    "kind": "events",
+    "start": "2025-01-01",
+    "end": "2026-05-01",
+    "note": "회사 발표에서 확인한 비정기 관측점. 연간 확정 매출 아님. 월 자료는 1일 위치에 표시하며 선으로 보간하지 않습니다.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://www.anthropic.com/news/series-h"
+      },
+      {
+        "name": "추가 발표 원문",
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 6,
+    "series_count": 1,
+    "csv": "datasets/c16.csv",
+    "json": "datasets/c16.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2025-01-01",
+      "value": 1,
+      "unit": "십억 USD",
+      "point_label": "2025년 초 · 약 1B",
+      "point_source": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2025-08-01",
+      "value": 5,
+      "unit": "십억 USD",
+      "point_label": "2025년 8월 · 5B 초과",
+      "point_source": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2025-12-31",
+      "value": 9,
+      "unit": "십억 USD",
+      "point_label": "2025년 말 · 약 9B",
+      "point_source": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2026-02-12",
+      "value": 14,
+      "unit": "십억 USD",
+      "point_label": "발표일 · 14B",
+      "point_source": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2026-04-20",
+      "value": 30,
+      "unit": "십억 USD",
+      "point_label": "발표일 · 30B 초과",
+      "point_source": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c16",
+      "series_id": "c16_8fc991acc68d1df0",
+      "series": "Anthropic · 매출 run-rate",
+      "date": "2026-05-01",
+      "value": 47,
+      "unit": "십억 USD",
+      "point_label": "2026년 5월 중 · 47B 돌파",
+      "point_source": "https://www.anthropic.com/news/series-h",
+      "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/series-h | https://www.anthropic.com/news/anthropic-amazon-compute",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

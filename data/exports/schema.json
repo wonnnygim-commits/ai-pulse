@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "primary_key": [
+    "series_id",
+    "date"
+  ],
+  "fields": {
+    "dataset_id": "Stable chart/dataset ID; never reassign IDs to other metrics.",
+    "series_id": "Stable ID derived from dataset ID and exact series name; name changes create a new series.",
+    "series": "Series label",
+    "date": "Source observation period/date, ISO 8601. Monthly dates may use day 01; see dataset note.",
+    "value": "Number or null. Missing is not zero. SQL NULL / JSON null / empty CSV.",
+    "unit": "Source unit; indices are NOT absolute quantities.",
+    "point_label": "Qualification such as above/approximately/partial week; retain when reusing.",
+    "point_source": "Point-specific disclosure URL when available.",
+    "dataset_sources": "Dataset source URLs separated by |; includes attribution links.",
+    "archive_version": "Version of this export, NOT a per-point fetched timestamp."
+  },
+  "semantics": "Exports are chart-ready retained observations, not necessarily raw measurements. Download metrics are trailing seven-day sums. Ramp indices can be rebased; blocked merges retain old data. Do not interpolate disclosure points or convert null to zero. Raw source payloads and revisions are under ../archive/.",
+  "license": "Underlying sources retain their rights. OpenRouter data requires CC BY 4.0 attribution. This export does not grant additional rights.",
+  "timestamps": "archive_updated_at identifies the retained archive version, not proof every source was checked. See refresh-status.json for collection failures and unreviewed sources."
+}

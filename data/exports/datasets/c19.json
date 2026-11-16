@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "id": "c19",
+    "title": "Cognition · 매출 run-rate",
+    "unit": "십억 USD",
+    "kind": "events",
+    "start": "2026-05-27",
+    "end": "2026-09-25",
+    "note": "회사 전체 기준. 인수 전 Devin 제품 단독 매출과 연결하지 않았습니다.",
+    "sources": [
+      {
+        "name": "발표 원문",
+        "url": "https://cognition.com/blog/series-d"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://cognition.com/blog/series-e"
+      },
+      {
+        "name": "발표 원문",
+        "url": "https://cognition.com/blog/1b-run-rate"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 3,
+    "series_count": 1,
+    "csv": "datasets/c19.csv",
+    "json": "datasets/c19.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c19",
+      "series_id": "c19_7e27abf5ef804aae",
+      "series": "Cognition · 매출 run-rate",
+      "date": "2026-05-27",
+      "value": 0.492,
+      "unit": "십억 USD",
+      "point_label": "492M",
+      "point_source": "https://cognition.com/blog/series-d",
+      "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c19",
+      "series_id": "c19_7e27abf5ef804aae",
+      "series": "Cognition · 매출 run-rate",
+      "date": "2026-09-08",
+      "value": 0.9,
+      "unit": "십억 USD",
+      "point_label": "약 900M",
+      "point_source": "https://cognition.com/blog/series-e",
+      "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c19",
+      "series_id": "c19_7e27abf5ef804aae",
+      "series": "Cognition · 매출 run-rate",
+      "date": "2026-09-25",
+      "value": 1,
+      "unit": "십억 USD",
+      "point_label": "1B 돌파",
+      "point_source": "https://cognition.com/blog/1b-run-rate",
+      "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

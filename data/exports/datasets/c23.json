@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "c23",
+    "title": "openai/codex · 미해결 이슈",
+    "unit": "건",
+    "kind": "events",
+    "start": "2026-11-12",
+    "end": "2026-11-16",
+    "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
+    "sources": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/openai/codex/issues"
+      }
+    ],
+    "archive_status": "누적 보관",
+    "rows": 2,
+    "series_count": 1,
+    "csv": "datasets/c23.csv",
+    "json": "datasets/c23.json"
+  },
+  "observations": [
+    {
+      "dataset_id": "c23",
+      "series_id": "c23_d9cc1fa8e2d7605c",
+      "series": "openai/codex",
+      "date": "2026-11-12",
+      "value": 27199,
+      "unit": "건",
+      "point_label": "",
+      "point_source": "",
+      "dataset_sources": "https://github.com/openai/codex/issues",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    },
+    {
+      "dataset_id": "c23",
+      "series_id": "c23_d9cc1fa8e2d7605c",
+      "series": "openai/codex",
+      "date": "2026-11-16",
+      "value": 27460,
+      "unit": "건",
+      "point_label": "",
+      "point_source": "",
+      "dataset_sources": "https://github.com/openai/codex/issues",
+      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+    }
+  ]
+}

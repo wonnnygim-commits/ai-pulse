@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archive_updated_at": "2026-11-16T07:51:04.815278+00:00",
+  "archive_updated_at": "2026-11-16T08:21:55.897015+00:00",
   "datasets": [
     {
       "id": "c1",
@@ -48,8 +48,8 @@
       "unit": "조 토큰 / 주 (T)",
       "kind": "stacked",
       "start": "2025-11-10",
-      "end": "2026-11-09",
-      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-12; retrieved 2026-11-13. Licensed under CC BY 4.0. T 단위로 환산.",
+      "end": "2026-11-16",
+      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-16; retrieved 2026-11-16. Licensed under CC BY 4.0. T 단위로 환산.",
       "sources": [
         {
           "name": "OpenRouter Rankings",
@@ -61,7 +61,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 3816,
+      "rows": 3835,
       "series_count": 72,
       "csv": "datasets/c26.csv",
       "json": "datasets/c26.json"

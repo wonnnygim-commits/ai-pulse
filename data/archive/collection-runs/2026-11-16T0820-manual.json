@@ -1,0 +1,108 @@
+{
+  "attemptedAt": "2026-11-16T08:18:58.767032+00:00",
+  "ok": [
+    "npm:@openai/codex",
+    "npm:@anthropic-ai/claude-code",
+    "npm:@google/gemini-cli",
+    "npm:@mariozechner/pi-coding-agent",
+    "npm:@kilocode/cli",
+    "pypi:hermes-agent",
+    "pypi:aider-chat",
+    "github:openai/codex",
+    "github:anthropics/claude-code",
+    "ramp-monthly",
+    "vsx",
+    "router-coding",
+    "ramp-token-volume",
+    "ramp-token-spend",
+    "ramp-token-price",
+    "OpenRouter Top Models",
+    "ramp-adoption-primary-fallback"
+  ],
+  "errors": [
+    {
+      "id": "RAMPAIALL",
+      "detail": "[Errno 60] Operation timed out"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "detail": "[Errno 60] Operation timed out"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "detail": "[Errno 60] Operation timed out"
+    }
+  ],
+  "agentReviewRequired": [
+    "Anthropic latest run-rate: official prospectus returned 403/region redirect",
+    "GitClear raw AI-assisted commit data: security verification blocked"
+  ],
+  "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+  "sourceReviews": [
+    {
+      "id": "c1-c2-c0",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "checked; latest source observation remains 2026-11-01",
+      "source": "https://ramp.com/data/ai-index"
+    },
+    {
+      "id": "c26",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "refreshed; current week 2026-11-16 is partial",
+      "source": "https://openrouter.ai/rankings"
+    },
+    {
+      "id": "c16",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "partial; latest prospectus inaccessible; previous verified run-rate retained",
+      "source": "https://ipo.anthropic.com/documents/us/prospectus.pdf"
+    },
+    {
+      "id": "c17",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "searched official announcements; no newer verified comparable Claude Code run-rate found; retained",
+      "source": "https://www.anthropic.com/news"
+    },
+    {
+      "id": "c18",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "checked company blog; no newer direct company ARR disclosure verified; retained",
+      "source": "https://cursor.com/blog"
+    },
+    {
+      "id": "c19",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "checked official blog; 2026-09-25 1B run-rate retained",
+      "source": "https://cognition.com/blog/1b-run-rate"
+    },
+    {
+      "id": "c20",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "official announcement search; no newer standalone Codex WAU count verified; combined product counts excluded",
+      "source": "https://openai.com/index/devday-2026-recap/"
+    },
+    {
+      "id": "c21",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "latest earnings checked; no comparable paid GitHub subscriber total; retained",
+      "source": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1"
+    },
+    {
+      "id": "c22",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "checked; latest Octoverse September value retained",
+      "source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    },
+    {
+      "id": "c25",
+      "checkedAt": "2026-11-16T08:21:55.804925+00:00",
+      "status": "raw series inaccessible: security verification; remains unavailable",
+      "source": "https://gitkraken.gitclear.com/industry_stats/ai_code_quality_signal_graphs"
+    }
+  ],
+  "notes": [
+    "FRED timed out twice; corresponding adoption chart refreshed from original Ramp data, older FRED observations retained.",
+    "Source check time is distinct from observation date.",
+    "R2 not connected; publication uses existing GitHub repository."
+  ]
+}

@@ -34,7 +34,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -46,7 +46,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -58,7 +58,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -70,7 +70,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -82,7 +82,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -94,487 +94,487 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-07-01",
-      "value": 24.4922982604,
+      "value": 24.49229826040309,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-08-01",
-      "value": 25.330062766,
+      "value": 25.33006276603419,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-09-01",
-      "value": 26.4205925206,
+      "value": 26.42059252064109,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-10-01",
-      "value": 27.191943128,
+      "value": 27.19194312796209,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-11-01",
-      "value": 28.0952685014,
+      "value": 28.09526850137284,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2023-12-01",
-      "value": 29.3515779093,
+      "value": 29.351577909270222,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-01-01",
-      "value": 30.3124816101,
+      "value": 30.312481610074737,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-02-01",
-      "value": 30.5627607985,
+      "value": 30.562760798466222,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-03-01",
-      "value": 31.1029964558,
+      "value": 31.10299645580496,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-04-01",
-      "value": 30.712606073,
+      "value": 30.71260607299867,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-05-01",
-      "value": 31.062260397,
+      "value": 31.06226039695249,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-06-01",
-      "value": 31.2995615263,
+      "value": 31.299561526261783,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-07-01",
-      "value": 31.7682273052,
+      "value": 31.768227305218012,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-08-01",
-      "value": 31.9880673343,
+      "value": 31.98806733432772,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-09-01",
-      "value": 32.8427956548,
+      "value": 32.842795654847315,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-10-01",
-      "value": 33.4465659287,
+      "value": 33.44656592870251,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-11-01",
-      "value": 34.1024861248,
+      "value": 34.102486124838435,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2024-12-01",
-      "value": 34.4377657235,
+      "value": 34.43776572350095,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-01-01",
-      "value": 35.4899629293,
+      "value": 35.48996292928586,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-02-01",
-      "value": 36.5839681791,
+      "value": 36.583968179060214,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-03-01",
-      "value": 37.4102103643,
+      "value": 37.410210364289384,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-04-01",
-      "value": 38.9169386122,
+      "value": 38.916938612154425,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-05-01",
-      "value": 40.210339209,
+      "value": 40.210339209006065,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-06-01",
-      "value": 41.1211211211,
+      "value": 41.12112112112112,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-07-01",
-      "value": 42.4657534247,
+      "value": 42.465753424657535,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-08-01",
-      "value": 43.4285564111,
+      "value": 43.428556411132426,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-09-01",
-      "value": 43.7175727498,
+      "value": 43.71757274983081,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-10-01",
-      "value": 43.5363183601,
+      "value": 43.53631836007988,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-11-01",
-      "value": 44.3522143093,
+      "value": 44.35221430929586,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2025-12-01",
-      "value": 44.4222881874,
+      "value": 44.42228818744193,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-01-01",
-      "value": 45.4371839667,
+      "value": 45.43718396666594,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-02-01",
-      "value": 47.6681989135,
+      "value": 47.6681989134977,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-03-01",
-      "value": 50.0807754443,
+      "value": 50.080775444264944,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-04-01",
-      "value": 51.9307265086,
+      "value": 51.93072650855599,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-05-01",
-      "value": 53.1817854052,
+      "value": 53.18178540524949,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-06-01",
-      "value": 53.9154587275,
+      "value": 53.91545872754101,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-07-01",
-      "value": 54.7715210788,
+      "value": 54.77152107880771,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-08-01",
-      "value": 55.1672195247,
+      "value": 55.16721952470234,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-09-01",
-      "value": 55.8252277764,
+      "value": 55.82522777640975,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_a4b69faf0c1113fa",
       "series": "전체",
       "date": "2026-10-01",
-      "value": 56.7962743938,
+      "value": 56.796274393849785,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -586,7 +586,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -598,7 +598,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -610,7 +610,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -622,7 +622,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -634,7 +634,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -646,487 +646,487 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-07-01",
-      "value": 0.1456050272,
+      "value": 0.1456050272051498,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-08-01",
-      "value": 0.1875766539,
+      "value": 0.1875766539210735,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-09-01",
-      "value": 0.5689308263,
+      "value": 0.5689308263373344,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-10-01",
-      "value": 0.7503949447,
+      "value": 0.7503949447077409,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-11-01",
-      "value": 0.8492433433,
+      "value": 0.8492433433369516,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2023-12-01",
-      "value": 1.0231755424,
+      "value": 1.023175542406312,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-01-01",
-      "value": 1.047490143,
+      "value": 1.0474901430000592,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-02-01",
-      "value": 1.0657494079,
+      "value": 1.065749407916996,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-03-01",
-      "value": 4.2906239931,
+      "value": 4.29062399312641,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-04-01",
-      "value": 4.856354156,
+      "value": 4.856354156016767,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-05-01",
-      "value": 4.7168437909,
+      "value": 4.716843790944825,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-06-01",
-      "value": 5.4062879,
+      "value": 5.406287899990671,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-07-01",
-      "value": 6.7950321658,
+      "value": 6.795032165832737,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-08-01",
-      "value": 7.6795226934,
+      "value": 7.679522693373109,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-09-01",
-      "value": 8.3828653413,
+      "value": 8.382865341258455,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-10-01",
-      "value": 9.0586076295,
+      "value": 9.058607629534185,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-11-01",
-      "value": 9.7886413746,
+      "value": 9.788641374591348,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2024-12-01",
-      "value": 10.1048233397,
+      "value": 10.10482333968626,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-01-01",
-      "value": 10.5721480031,
+      "value": 10.572148003077569,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-02-01",
-      "value": 10.9721566777,
+      "value": 10.97215667767815,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-03-01",
-      "value": 11.8907131862,
+      "value": 11.89071318624936,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-04-01",
-      "value": 11.8126962625,
+      "value": 11.81269626254541,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-05-01",
-      "value": 12.3211376092,
+      "value": 12.32113760924308,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-06-01",
-      "value": 13.5535535536,
+      "value": 13.553553553553549,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-07-01",
-      "value": 14.8598566997,
+      "value": 14.85985669970077,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-08-01",
-      "value": 15.589603427,
+      "value": 15.589603426979581,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-09-01",
-      "value": 15.9410481991,
+      "value": 15.941048199112709,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-10-01",
-      "value": 16.5700262252,
+      "value": 16.57002622524842,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-11-01",
-      "value": 17.1697401311,
+      "value": 17.16974013111352,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2025-12-01",
-      "value": 17.7562257823,
+      "value": 17.756225782329878,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-01-01",
-      "value": 21.0659953558,
+      "value": 21.065995355801988,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-02-01",
-      "value": 26.8867530297,
+      "value": 26.88675302966987,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-03-01",
-      "value": 33.6360770716,
+      "value": 33.63607707159463,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-04-01",
-      "value": 38.1210597418,
+      "value": 38.121059741819266,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-05-01",
-      "value": 40.6132823767,
+      "value": 40.61328237669455,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-06-01",
-      "value": 41.9946185227,
+      "value": 41.99461852269768,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-07-01",
-      "value": 43.1072465703,
+      "value": 43.10724657031276,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-08-01",
-      "value": 43.4306042979,
+      "value": 43.4306042978703,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-09-01",
-      "value": 43.6915168678,
+      "value": 43.69151686776656,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_744205e43529c1fc",
       "series": "Anthropic",
       "date": "2026-10-01",
-      "value": 44.7782377292,
+      "value": 44.778237729154355,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1138,7 +1138,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1150,7 +1150,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1162,7 +1162,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1174,7 +1174,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1186,7 +1186,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1198,487 +1198,487 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-07-01",
-      "value": 24.453981148,
+      "value": 24.45398114798069,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-08-01",
-      "value": 25.3012048193,
+      "value": 25.30120481927711,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-09-01",
-      "value": 26.3026434469,
+      "value": 26.30264344688822,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-10-01",
-      "value": 27.0471300685,
+      "value": 27.047130068457083,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-11-01",
-      "value": 27.9100951408,
+      "value": 27.910095140795598,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2023-12-01",
-      "value": 29.1851577909,
+      "value": 29.18515779092702,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-01-01",
-      "value": 30.1535926558,
+      "value": 30.15359265579945,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-02-01",
-      "value": 30.3935942258,
+      "value": 30.39359422578098,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-03-01",
-      "value": 30.6465470948,
+      "value": 30.64654709483406,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-04-01",
-      "value": 30.1247316225,
+      "value": 30.124731622533478,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-05-01",
-      "value": 30.5041976028,
+      "value": 30.50419760275634,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-06-01",
-      "value": 30.5578878627,
+      "value": 30.55788786267375,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-07-01",
-      "value": 30.727305218,
+      "value": 30.72730521801287,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-08-01",
-      "value": 30.6882591093,
+      "value": 30.688259109311737,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-09-01",
-      "value": 31.5638450502,
+      "value": 31.56384505021521,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-10-01",
-      "value": 31.9120690328,
+      "value": 31.912069032837447,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-11-01",
-      "value": 32.3766441116,
+      "value": 32.37664411160952,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2024-12-01",
-      "value": 32.7188095587,
+      "value": 32.718809558715726,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-01-01",
-      "value": 33.7308526264,
+      "value": 33.73085262642512,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-02-01",
-      "value": 34.750219106,
+      "value": 34.75021910604733,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-03-01",
-      "value": 35.3931503335,
+      "value": 35.39315033350436,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-04-01",
-      "value": 37.1344129056,
+      "value": 37.13441290560926,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-05-01",
-      "value": 38.4150496223,
+      "value": 38.41504962227818,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-06-01",
-      "value": 39.1076791077,
+      "value": 39.10767910767911,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-07-01",
-      "value": 39.9840777445,
+      "value": 39.98407774453016,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-08-01",
-      "value": 40.7190349794,
+      "value": 40.71903497936979,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-09-01",
-      "value": 40.9579667644,
+      "value": 40.95796676441838,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-10-01",
-      "value": 40.6082332844,
+      "value": 40.60823328441162,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-11-01",
-      "value": 41.0790925812,
+      "value": 41.079092581238505,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2025-12-01",
-      "value": 40.9417416329,
+      "value": 40.94174163286579,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-01-01",
-      "value": 40.7929859589,
+      "value": 40.79298595889668,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-02-01",
-      "value": 40.8420392812,
+      "value": 40.84203928123694,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-03-01",
-      "value": 40.0015761062,
+      "value": 40.00157610622956,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-04-01",
-      "value": 39.3575502852,
+      "value": 39.357550285199636,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-05-01",
-      "value": 39.2828814537,
+      "value": 39.28288145370638,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-06-01",
-      "value": 39.1163961462,
+      "value": 39.11639614616787,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-07-01",
-      "value": 39.4238793017,
+      "value": 39.42387930171234,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-08-01",
-      "value": 39.4836786693,
+      "value": 39.48367866929475,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-09-01",
-      "value": 40.6149963063,
+      "value": 40.614996306328486,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
       "series_id": "c3_8b7d1a3187ab355d",
       "series": "OpenAI",
       "date": "2026-10-01",
-      "value": 40.5647545831,
+      "value": 40.56475458308693,
       "unit": "%",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1690,7 +1690,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1702,7 +1702,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1714,7 +1714,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1726,7 +1726,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1738,7 +1738,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1750,7 +1750,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1762,7 +1762,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1774,7 +1774,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1786,7 +1786,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1798,7 +1798,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1810,7 +1810,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1822,7 +1822,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1834,7 +1834,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1846,7 +1846,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1858,7 +1858,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1870,7 +1870,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1882,7 +1882,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1894,7 +1894,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1906,7 +1906,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1918,7 +1918,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1930,7 +1930,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1942,7 +1942,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1954,7 +1954,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1966,7 +1966,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1978,7 +1978,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -1990,7 +1990,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2002,7 +2002,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2014,7 +2014,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2026,7 +2026,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2038,7 +2038,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2050,7 +2050,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2062,7 +2062,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2074,7 +2074,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2086,7 +2086,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2098,7 +2098,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2110,7 +2110,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2122,7 +2122,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2134,7 +2134,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2146,7 +2146,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2158,7 +2158,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2170,7 +2170,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2182,7 +2182,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2194,7 +2194,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2206,7 +2206,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2218,7 +2218,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2230,7 +2230,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2242,7 +2242,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2254,7 +2254,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2266,7 +2266,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2278,7 +2278,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2290,7 +2290,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2302,7 +2302,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2314,7 +2314,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2326,7 +2326,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2338,7 +2338,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2350,7 +2350,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2362,7 +2362,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2374,7 +2374,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2386,7 +2386,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2398,7 +2398,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2410,7 +2410,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2422,7 +2422,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2434,7 +2434,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2446,7 +2446,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2458,7 +2458,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2470,7 +2470,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2482,7 +2482,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2494,7 +2494,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2506,7 +2506,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2518,7 +2518,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2530,7 +2530,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2542,7 +2542,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2554,7 +2554,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2566,7 +2566,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2578,7 +2578,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2590,7 +2590,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2602,7 +2602,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2614,7 +2614,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2626,7 +2626,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2638,7 +2638,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2650,7 +2650,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2662,7 +2662,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2674,7 +2674,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2686,7 +2686,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2698,7 +2698,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2710,7 +2710,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2722,7 +2722,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2734,7 +2734,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2746,7 +2746,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2758,7 +2758,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2770,7 +2770,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2782,7 +2782,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2794,7 +2794,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2806,7 +2806,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2818,7 +2818,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2830,7 +2830,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2842,7 +2842,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2854,7 +2854,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2866,7 +2866,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2878,7 +2878,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2890,7 +2890,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2902,7 +2902,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2914,7 +2914,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2926,7 +2926,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2938,7 +2938,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2950,7 +2950,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2962,7 +2962,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2974,7 +2974,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2986,7 +2986,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -2998,7 +2998,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3010,7 +3010,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3022,7 +3022,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3034,7 +3034,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3046,7 +3046,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3058,7 +3058,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3070,7 +3070,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3082,7 +3082,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3094,7 +3094,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3106,7 +3106,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c3",
@@ -3118,7 +3118,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://ramp.com/data/ai-index | https://fred.stlouisfed.org/series/RAMPAIALL",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     }
   ]
 }

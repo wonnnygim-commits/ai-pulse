@@ -30,19 +30,19 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c24",
       "series_id": "c24_48179362e46afbbc",
       "series": "anthropics/claude-code",
       "date": "2026-11-16",
-      "value": 16351,
+      "value": 16353,
       "unit": "건",
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     }
   ]
 }

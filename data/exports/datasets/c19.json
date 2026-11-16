@@ -38,7 +38,7 @@
       "point_label": "492M",
       "point_source": "https://cognition.com/blog/series-d",
       "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c19",
@@ -50,7 +50,7 @@
       "point_label": "약 900M",
       "point_source": "https://cognition.com/blog/series-e",
       "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     },
     {
       "dataset_id": "c19",
@@ -62,7 +62,7 @@
       "point_label": "1B 돌파",
       "point_source": "https://cognition.com/blog/1b-run-rate",
       "dataset_sources": "https://cognition.com/blog/series-d | https://cognition.com/blog/series-e | https://cognition.com/blog/1b-run-rate",
-      "archive_version": "ec24f0fafd465ec544dbb8ad3ddd345e1e317420f33627c769c87983e58f28cc"
+      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
     }
   ]
 }

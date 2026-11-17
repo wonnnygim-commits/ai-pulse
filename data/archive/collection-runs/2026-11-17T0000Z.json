@@ -1,0 +1,320 @@
+{
+  "attemptedAt": "2026-11-17T00:00:17.475744+00:00",
+  "ok": [
+    "npm:@openai/codex",
+    "npm:@anthropic-ai/claude-code",
+    "npm:@google/gemini-cli",
+    "npm:@mariozechner/pi-coding-agent",
+    "npm:@kilocode/cli",
+    "pypi:hermes-agent",
+    "pypi:aider-chat",
+    "github:openai/codex",
+    "github:anthropics/claude-code",
+    "ramp-monthly",
+    "vsx",
+    "router-coding",
+    "ramp-token-price",
+    "ramp-token-volume",
+    "ramp-token-spend",
+    "router-top-models"
+  ],
+  "errors": [
+    {
+      "id": "RAMPAIALL",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "detail": "[Errno 60] Operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "Codex weekly active",
+      "detail": "OpenAI HTTP 403 on news and announcement",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "GitHub Copilot paid",
+      "detail": "Microsoft timeout then HTTP 403",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "GitClear",
+      "detail": "HTTP 403 on both attempts",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    }
+  ],
+  "agentReviewRequired": [
+    "Codex weekly active: accessible original disclosure required",
+    "GitHub Copilot paid: accessible original disclosure required",
+    "GitClear: raw series unavailable"
+  ],
+  "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+  "sourceChecks": [
+    {
+      "id": "npm:@openai/codex",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@anthropic-ai/claude-code",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@google/gemini-cli",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@mariozechner/pi-coding-agent",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@kilocode/cli",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "pypi:hermes-agent",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "pypi:aider-chat",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "github:openai/codex",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "ramp-monthly",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "vsx",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "router-coding",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "ramp-token-price",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "ramp-token-volume",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "ramp-token-spend",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "router-top-models",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "ok"
+    }
+  ],
+  "reviewEvidence": [
+    {
+      "id": "ramp",
+      "url": "https://ramp.com/data/ai-index",
+      "bytes": 2053473,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "router",
+      "url": "https://openrouter.ai/rankings",
+      "bytes": 1213123,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "anthropic",
+      "url": "https://www.anthropic.com/news",
+      "bytes": 344475,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "cursor",
+      "url": "https://cursor.com/blog",
+      "bytes": 395664,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "cognition",
+      "url": "https://cognition.com/blog",
+      "bytes": 382008,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "openai",
+      "url": "https://openai.com/news/",
+      "error": "HTTP Error 403: Forbidden",
+      "ok": false,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "microsoft",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "error": "The read operation timed out",
+      "ok": false,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "github",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "bytes": 242276,
+      "ok": true,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "gitclear",
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "error": "HTTP Error 403: Forbidden",
+      "ok": false,
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "anthropic-roadshow",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "ok": true,
+      "checkedAt": "2026-11-17T00:02:17.510043+00:00"
+    },
+    {
+      "id": "anthropic-s1",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "ok": true,
+      "checkedAt": "2026-11-17T00:02:17.513670+00:00"
+    },
+    {
+      "id": "cognition-latest",
+      "url": "https://cognition.com/blog/1b-run-rate",
+      "ok": true,
+      "checkedAt": "2026-11-17T00:02:17.304583+00:00"
+    },
+    {
+      "id": "cursor-latest",
+      "url": "https://cursor.com/blog/series-d",
+      "ok": true,
+      "checkedAt": "2026-11-17T00:02:17.607312+00:00"
+    },
+    {
+      "id": "openai-retry",
+      "url": "https://openai.com/index/codex-for-knowledge-work/",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "checkedAt": "2026-11-17T00:02:17.265901+00:00"
+    },
+    {
+      "id": "microsoft-retry",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "checkedAt": "2026-11-17T00:02:18.106589+00:00"
+    },
+    {
+      "id": "gitclear-retry",
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "checkedAt": "2026-11-17T00:02:17.354035+00:00"
+    },
+    {
+      "id": "RAMPAIALL",
+      "ok": false,
+      "error": "The read operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "ok": false,
+      "error": "The read operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "ok": false,
+      "error": "The read operation timed out",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+    }
+  ],
+  "disclosureReviews": [
+    {
+      "id": "c16",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "checked",
+      "detail": "Anthropic newsroom, S-1 and roadshow announcements reviewed; no verified new run-rate point."
+    },
+    {
+      "id": "c17",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "checked",
+      "detail": "Same Anthropic announcements reviewed for Claude Code revenue; no verified new point."
+    },
+    {
+      "id": "c18",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "checked",
+      "detail": "Cursor blog and Series D reviewed. Bloomberg estimate excluded."
+    },
+    {
+      "id": "c19",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "checked",
+      "detail": "Cognition blog and 1B run-rate announcement reviewed; unchanged."
+    },
+    {
+      "id": "c20",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "failed",
+      "detail": "OpenAI news and direct Codex announcement both HTTP 403."
+    },
+    {
+      "id": "c21",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "failed",
+      "detail": "Microsoft FY2027 Q1 earnings timed out; retry HTTP 403."
+    },
+    {
+      "id": "c22",
+      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "status": "checked",
+      "detail": "GitHub original Octoverse article reviewed; March 17%, September above 40% unchanged."
+    }
+  ],
+  "status": "partial_failure",
+  "completedAt": "2026-11-17T00:04:14.851136+00:00",
+  "archiveChanges": {
+    "added": 107,
+    "revised": 83,
+    "blocked": []
+  }
+}

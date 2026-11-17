@@ -5,7 +5,7 @@
     "unit": "건",
     "kind": "line",
     "start": "2026-10-26",
-    "end": "2026-11-15",
+    "end": "2026-11-16",
     "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
     "sources": [
       {
@@ -14,7 +14,7 @@
       }
     ],
     "archive_status": "누적 보관",
-    "rows": 21,
+    "rows": 22,
     "series_count": 1,
     "csv": "datasets/c14.csv",
     "json": "datasets/c14.json"
@@ -30,7 +30,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -42,7 +42,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -54,7 +54,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -66,7 +66,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -78,7 +78,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -90,7 +90,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -102,7 +102,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -114,7 +114,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -126,7 +126,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -138,7 +138,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -150,7 +150,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -162,7 +162,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -174,7 +174,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -186,7 +186,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -198,7 +198,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -210,7 +210,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -222,7 +222,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -234,7 +234,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -246,7 +246,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -258,7 +258,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c14",
@@ -270,7 +270,19 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
+    },
+    {
+      "dataset_id": "c14",
+      "series_id": "c14_83abecfdd5cf0b9c",
+      "series": "Kilo Code",
+      "date": "2026-11-16",
+      "value": 1733917,
+      "unit": "건",
+      "point_label": "",
+      "point_source": "",
+      "dataset_sources": "https://vsxatlas.com/extension/kilocode.kilo-code?range=all",
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     }
   ]
 }

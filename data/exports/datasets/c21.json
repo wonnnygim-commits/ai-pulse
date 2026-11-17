@@ -38,7 +38,7 @@
       "point_label": "1.3M 초과",
       "point_source": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q2",
       "dataset_sources": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q2 | https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q3 | https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c21",
@@ -50,7 +50,7 @@
       "point_label": "1.8M",
       "point_source": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q3",
       "dataset_sources": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q2 | https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q3 | https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c21",
@@ -62,7 +62,7 @@
       "point_label": "4.7M 초과",
       "point_source": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
       "dataset_sources": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q2 | https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q3 | https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     }
   ]
 }

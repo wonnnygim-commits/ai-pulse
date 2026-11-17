@@ -1,3 +1,4 @@
 ﻿dataset_id,series_id,series,date,value,unit,point_label,point_source,dataset_sources,archive_version
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-12,16342,건,,,https://github.com/anthropics/claude-code/issues,b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-16,16353,건,,,https://github.com/anthropics/claude-code/issues,b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-12,16342,건,,,https://github.com/anthropics/claude-code/issues,ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-16,16353,건,,,https://github.com/anthropics/claude-code/issues,ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-17,16352,건,,,https://github.com/anthropics/claude-code/issues,ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a

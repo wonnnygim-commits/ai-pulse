@@ -38,7 +38,7 @@
       "point_label": "0.1B 초과",
       "point_source": "https://cursor.com/blog/series-b",
       "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c18",
@@ -50,7 +50,7 @@
       "point_label": "0.5B 초과",
       "point_source": "https://cursor.com/blog/series-c",
       "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     },
     {
       "dataset_id": "c18",
@@ -62,7 +62,7 @@
       "point_label": "1B 초과",
       "point_source": "https://cursor.com/blog/series-d",
       "dataset_sources": "https://cursor.com/blog/series-b | https://cursor.com/blog/series-c | https://cursor.com/blog/series-d",
-      "archive_version": "b6bab47cc26554706f4eb082cd8844389eab5871ed295ecce7b2beb1e7e10dab"
+      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
     }
   ]
 }

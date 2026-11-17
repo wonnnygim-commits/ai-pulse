@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archive_updated_at": "2026-11-16T08:21:55.897015+00:00",
+  "archive_updated_at": "2026-11-17T00:04:14.998973+00:00",
   "datasets": [
     {
       "id": "c1",
@@ -49,7 +49,7 @@
       "kind": "stacked",
       "start": "2025-11-10",
       "end": "2026-11-16",
-      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-16; retrieved 2026-11-16. Licensed under CC BY 4.0. T 단위로 환산.",
+      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-16; retrieved 2026-11-17T00:04:14.851136+00:00. Licensed under CC BY 4.0. T 단위로 환산.",
       "sources": [
         {
           "name": "OpenRouter Rankings",
@@ -61,8 +61,8 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 3835,
-      "series_count": 72,
+      "rows": 3888,
+      "series_count": 73,
       "csv": "datasets/c26.csv",
       "json": "datasets/c26.json"
     },
@@ -276,7 +276,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-15",
+      "end": "2026-11-16",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -285,7 +285,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 21,
+      "rows": 22,
       "series_count": 1,
       "csv": "datasets/c12.csv",
       "json": "datasets/c12.json"
@@ -296,7 +296,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-15",
+      "end": "2026-11-16",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -305,7 +305,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 21,
+      "rows": 22,
       "series_count": 1,
       "csv": "datasets/c13.csv",
       "json": "datasets/c13.json"
@@ -316,7 +316,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-15",
+      "end": "2026-11-16",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -325,7 +325,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 21,
+      "rows": 22,
       "series_count": 1,
       "csv": "datasets/c14.csv",
       "json": "datasets/c14.json"
@@ -345,8 +345,8 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 788,
-      "series_count": 15,
+      "rows": 837,
+      "series_count": 22,
       "csv": "datasets/c15.csv",
       "json": "datasets/c15.json"
     },
@@ -548,7 +548,7 @@
       "unit": "건",
       "kind": "events",
       "start": "2026-11-12",
-      "end": "2026-11-16",
+      "end": "2026-11-17",
       "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
       "sources": [
         {
@@ -557,7 +557,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 2,
+      "rows": 3,
       "series_count": 1,
       "csv": "datasets/c23.csv",
       "json": "datasets/c23.json"
@@ -568,7 +568,7 @@
       "unit": "건",
       "kind": "events",
       "start": "2026-11-12",
-      "end": "2026-11-16",
+      "end": "2026-11-17",
       "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
       "sources": [
         {
@@ -577,7 +577,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 2,
+      "rows": 3,
       "series_count": 1,
       "csv": "datasets/c24.csv",
       "json": "datasets/c24.json"

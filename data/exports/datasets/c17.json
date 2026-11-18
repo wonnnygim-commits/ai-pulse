@@ -38,7 +38,7 @@
       "point_label": "0.5B 초과",
       "point_source": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
       "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
-      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
+      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
     },
     {
       "dataset_id": "c17",
@@ -50,7 +50,7 @@
       "point_label": "2025년 11월 · 1B · 월 표시용 날짜",
       "point_source": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
       "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
-      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
+      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
     },
     {
       "dataset_id": "c17",
@@ -62,7 +62,7 @@
       "point_label": "2.5B 초과",
       "point_source": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "dataset_sources": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation | https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation | https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
-      "archive_version": "ff96f0fdbe983804f56f5f453d357e2d69141b997ef36f62aab42be56b5bb85a"
+      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
     }
   ]
 }

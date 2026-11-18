@@ -1,5 +1,5 @@
 {
-  "attemptedAt": "2026-11-17T00:00:17.475744+00:00",
+  "attemptedAt": "2026-11-18T00:00:13.477287+00:00",
   "ok": [
     "npm:@openai/codex",
     "npm:@anthropic-ai/claude-code",
@@ -22,32 +22,32 @@
     {
       "id": "RAMPAIALL",
       "detail": "The read operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     },
     {
       "id": "RAMPAIANTHROPIC",
-      "detail": "[Errno 60] Operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     },
     {
       "id": "RAMPAIOPENAI",
       "detail": "The read operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     },
     {
       "id": "Codex weekly active",
-      "detail": "OpenAI HTTP 403 on news and announcement",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "detail": "OpenAI newsroom and three original announcements HTTP 403",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     },
     {
       "id": "GitHub Copilot paid",
-      "detail": "Microsoft timeout then HTTP 403",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "detail": "Microsoft earnings pages timeout/HTTP 403 including FY2027 Q1 retry",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     },
     {
       "id": "GitClear",
-      "detail": "HTTP 403 on both attempts",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "detail": "Raw data page HTTP 403 on both attempts",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00"
     }
   ],
   "agentReviewRequired": [
@@ -55,266 +55,384 @@
     "GitHub Copilot paid: accessible original disclosure required",
     "GitClear: raw series unavailable"
   ],
-  "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+  "checkedAt": "2026-11-18T00:03:17.986528+00:00",
   "sourceChecks": [
     {
       "id": "npm:@openai/codex",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "npm:@anthropic-ai/claude-code",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "npm:@google/gemini-cli",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "npm:@mariozechner/pi-coding-agent",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "npm:@kilocode/cli",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "pypi:hermes-agent",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "pypi:aider-chat",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "github:openai/codex",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "github:anthropics/claude-code",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "ramp-monthly",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "vsx",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "router-coding",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "ramp-token-price",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "ramp-token-volume",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "ramp-token-spend",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     },
     {
       "id": "router-top-models",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "ok"
     }
   ],
   "reviewEvidence": [
     {
-      "id": "ramp",
-      "url": "https://ramp.com/data/ai-index",
-      "bytes": 2053473,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "router",
-      "url": "https://openrouter.ai/rankings",
-      "bytes": 1213123,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "anthropic",
-      "url": "https://www.anthropic.com/news",
-      "bytes": 344475,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "cursor",
-      "url": "https://cursor.com/blog",
-      "bytes": 395664,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "cognition",
       "url": "https://cognition.com/blog",
-      "bytes": 382008,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "checkedAt": "2026-11-18T00:00:45.252399+00:00",
+      "file": "0",
+      "status": "fetched",
+      "bytes": 392553
     },
     {
-      "id": "openai",
-      "url": "https://openai.com/news/",
-      "error": "HTTP Error 403: Forbidden",
-      "ok": false,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "microsoft",
-      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
-      "error": "The read operation timed out",
-      "ok": false,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "github",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "bytes": 242276,
-      "ok": true,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "gitclear",
-      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
-      "error": "HTTP Error 403: Forbidden",
-      "ok": false,
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
-    },
-    {
-      "id": "anthropic-roadshow",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "ok": true,
-      "checkedAt": "2026-11-17T00:02:17.510043+00:00"
-    },
-    {
-      "id": "anthropic-s1",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "ok": true,
-      "checkedAt": "2026-11-17T00:02:17.513670+00:00"
-    },
-    {
-      "id": "cognition-latest",
       "url": "https://cognition.com/blog/1b-run-rate",
-      "ok": true,
-      "checkedAt": "2026-11-17T00:02:17.304583+00:00"
+      "checkedAt": "2026-11-18T00:00:45.252846+00:00",
+      "file": "1",
+      "status": "fetched",
+      "bytes": 106076
     },
     {
-      "id": "cursor-latest",
+      "url": "https://cognition.com/blog/series-d",
+      "checkedAt": "2026-11-18T00:00:45.252938+00:00",
+      "file": "2",
+      "status": "fetched",
+      "bytes": 146044
+    },
+    {
+      "url": "https://cognition.com/blog/series-e",
+      "checkedAt": "2026-11-18T00:00:45.253001+00:00",
+      "file": "3",
+      "status": "fetched",
+      "bytes": 115641
+    },
+    {
+      "url": "https://cursor.com/blog",
+      "checkedAt": "2026-11-18T00:00:45.253054+00:00",
+      "file": "4",
+      "status": "fetched",
+      "bytes": 395550
+    },
+    {
+      "url": "https://cursor.com/blog/series-b",
+      "checkedAt": "2026-11-18T00:00:45.253110+00:00",
+      "file": "5",
+      "status": "fetched",
+      "bytes": 138864
+    },
+    {
+      "url": "https://cursor.com/blog/series-c",
+      "checkedAt": "2026-11-18T00:00:45.253156+00:00",
+      "file": "6",
+      "status": "fetched",
+      "bytes": 136371
+    },
+    {
       "url": "https://cursor.com/blog/series-d",
-      "ok": true,
-      "checkedAt": "2026-11-17T00:02:17.607312+00:00"
+      "checkedAt": "2026-11-18T00:00:45.253203+00:00",
+      "file": "7",
+      "status": "fetched",
+      "bytes": 140679
     },
     {
-      "id": "openai-retry",
+      "url": "https://github.blog/news-insights/octoverse/",
+      "checkedAt": "2026-11-18T00:00:45.574716+00:00",
+      "file": "8",
+      "status": "fetched",
+      "bytes": 188687
+    },
+    {
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "checkedAt": "2026-11-18T00:00:45.746654+00:00",
+      "file": "9",
+      "status": "fetched",
+      "bytes": 271508
+    },
+    {
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "checkedAt": "2026-11-18T00:00:45.834309+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
       "url": "https://openai.com/index/codex-for-knowledge-work/",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden",
-      "checkedAt": "2026-11-17T00:02:17.265901+00:00"
+      "checkedAt": "2026-11-18T00:00:45.873041+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "microsoft-retry",
-      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden",
-      "checkedAt": "2026-11-17T00:02:18.106589+00:00"
+      "url": "https://openai.com/index/scaling-ai-for-everyone/",
+      "checkedAt": "2026-11-18T00:00:45.883129+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "gitclear-retry",
+      "url": "https://openai.com/news/",
+      "checkedAt": "2026-11-18T00:00:45.940005+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openrouter.ai/rankings",
+      "checkedAt": "2026-11-18T00:00:45.970870+00:00",
+      "file": "14",
+      "status": "fetched",
+      "bytes": 1137190
+    },
+    {
+      "url": "https://ramp.com/data/ai-index",
+      "checkedAt": "2026-11-18T00:00:45.971253+00:00",
+      "file": "15",
+      "status": "fetched",
+      "bytes": 2054345
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "checkedAt": "2026-11-18T00:00:45.986304+00:00",
+      "file": "16",
+      "status": "fetched",
+      "bytes": 344432
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "checkedAt": "2026-11-18T00:00:46.021125+00:00",
+      "file": "17",
+      "status": "fetched",
+      "bytes": 141317
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "checkedAt": "2026-11-18T00:00:46.044671+00:00",
+      "file": "18",
+      "status": "fetched",
+      "bytes": 142745
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checkedAt": "2026-11-18T00:00:46.046116+00:00",
+      "file": "19",
+      "status": "fetched",
+      "bytes": 150402
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "checkedAt": "2026-11-18T00:00:46.099068+00:00",
+      "file": "20",
+      "status": "fetched",
+      "bytes": 140439
+    },
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "checkedAt": "2026-11-18T00:00:46.321574+00:00",
+      "file": "21",
+      "status": "fetched",
+      "bytes": 142561
+    },
+    {
       "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden",
-      "checkedAt": "2026-11-17T00:02:17.354035+00:00"
+      "checkedAt": "2026-11-18T00:00:46.616380+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
     },
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
+      "checkedAt": "2026-11-18T00:00:46.624252+00:00",
+      "status": "failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q2",
+      "checkedAt": "2026-11-18T00:00:46.674675+00:00",
+      "status": "failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2024/earnings-fy-2024-q3",
+      "checkedAt": "2026-11-18T00:00:46.741368+00:00",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
+      "checkedAt": "2026-11-18T00:00:46.839674+00:00",
+      "status": "failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "status": "fetched",
+      "checkedAt": "2026-11-18T00:01:55.933223+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "status": "fetched",
+      "checkedAt": "2026-11-18T00:01:55.890133+00:00"
+    },
+    {
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "checkedAt": "2026-11-18T00:01:55.759924+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "checkedAt": "2026-11-18T00:01:55.780131+00:00"
+    },
+    {
+      "id": "fresh-tokenPrices",
+      "url": "https://ramp.com/data/ai-index/chart-data/tokenPrices?format=public&version=tAK23xfG5FC28baVYF16Az",
+      "status": "ok",
+      "checkedAt": "2026-11-18T00:02:37.005386+00:00"
+    },
+    {
+      "id": "fresh-tokenVolumes",
+      "url": "https://ramp.com/data/ai-index/chart-data/tokenVolumes?format=public&version=tAK23xfG5FC28baVYF16Az",
+      "status": "ok",
+      "checkedAt": "2026-11-18T00:02:38.003337+00:00"
+    },
+    {
+      "id": "fresh-router",
+      "url": "https://openrouter.ai/api/frontend/v1/rankings/model-rankings-chart",
+      "status": "ok",
+      "checkedAt": "2026-11-18T00:02:36.687469+00:00"
+    }
+  ],
+  "retryResults": [
     {
       "id": "RAMPAIALL",
-      "ok": false,
-      "error": "The read operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "status": "failed",
+      "detail": "The read operation timed out"
     },
     {
       "id": "RAMPAIANTHROPIC",
-      "ok": false,
-      "error": "The read operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "status": "failed",
+      "detail": "The read operation timed out"
     },
     {
       "id": "RAMPAIOPENAI",
-      "ok": false,
-      "error": "The read operation timed out",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00"
+      "status": "failed",
+      "detail": "The read operation timed out"
     }
   ],
   "disclosureReviews": [
     {
       "id": "c16",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "checked",
-      "detail": "Anthropic newsroom, S-1 and roadshow announcements reviewed; no verified new run-rate point."
+      "detail": "Newsroom, Series H, S-1 and roadshow checked; no verified new run-rate point."
     },
     {
       "id": "c17",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "checked",
-      "detail": "Same Anthropic announcements reviewed for Claude Code revenue; no verified new point."
+      "detail": "Anthropic releases reviewed for Claude Code revenue; no new verified point."
     },
     {
       "id": "c18",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "checked",
-      "detail": "Cursor blog and Series D reviewed. Bloomberg estimate excluded."
+      "detail": "Cursor blog and Series B/C/D checked; no newer first-party ARR point. Bloomberg estimate excluded."
     },
     {
       "id": "c19",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "checked",
-      "detail": "Cognition blog and 1B run-rate announcement reviewed; unchanged."
+      "detail": "Cognition blog and Series D/E and 1B release checked; unchanged."
     },
     {
       "id": "c20",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "failed",
-      "detail": "OpenAI news and direct Codex announcement both HTTP 403."
+      "detail": "OpenAI original announcements and news blocked HTTP 403."
     },
     {
       "id": "c21",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "failed",
-      "detail": "Microsoft FY2027 Q1 earnings timed out; retry HTTP 403."
+      "detail": "Microsoft earnings sources and latest quarter retry inaccessible."
     },
     {
       "id": "c22",
-      "checkedAt": "2026-11-17T00:04:14.851136+00:00",
+      "checkedAt": "2026-11-18T00:03:17.986528+00:00",
       "status": "checked",
-      "detail": "GitHub original Octoverse article reviewed; March 17%, September above 40% unchanged."
+      "detail": "Octoverse listing and original article checked: March 17%, September above 40%, unchanged."
     }
   ],
   "status": "partial_failure",
-  "completedAt": "2026-11-17T00:04:14.851136+00:00",
+  "completedAt": "2026-11-18T00:03:17.986528+00:00",
   "archiveChanges": {
-    "added": 107,
-    "revised": 83,
-    "blocked": []
+    "added": 20,
+    "revised": 43,
+    "removedNullPlaceholders": 52,
+    "blocked": [],
+    "topModelsBucketReplacement": {
+      "removedKeys": 53,
+      "removedNullPlaceholders": 52,
+      "supersededNonNullKeys": 1,
+      "detail": "Updated weekly top-nine decomposition replaces observed buckets; previous values remain in immutable snapshots."
+    }
   }
 }

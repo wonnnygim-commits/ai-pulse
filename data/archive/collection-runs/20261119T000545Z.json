@@ -1,0 +1,249 @@
+{
+  "attemptedAt": "2026-11-19T00:00:15.619489+00:00",
+  "ok": [
+    "npm:@openai/codex",
+    "npm:@anthropic-ai/claude-code",
+    "npm:@google/gemini-cli",
+    "npm:@mariozechner/pi-coding-agent",
+    "npm:@kilocode/cli",
+    "pypi:hermes-agent",
+    "pypi:aider-chat",
+    "github:openai/codex",
+    "github:anthropics/claude-code",
+    "ramp-monthly",
+    "vsx",
+    "router-coding",
+    "ramp-token-price",
+    "ramp-token-volume",
+    "ramp-token-spend",
+    "router-top-models"
+  ],
+  "errors": [
+    {
+      "id": "RAMPAIALL",
+      "detail": "[Errno 60] Operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained"
+    },
+    {
+      "id": "c20",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "detail": "OpenAI news and Codex announcement returned HTTP 403; browser retry also 403. Latest disclosure review incomplete."
+    },
+    {
+      "id": "gitclear",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "detail": "HTTP 403; browser retry security verification also 403. Raw series unavailable."
+    }
+  ],
+  "agentReviewRequired": [
+    "Codex weekly active: source inaccessible"
+  ],
+  "sources": [
+    {
+      "id": "npm:@openai/codex",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@anthropic-ai/claude-code",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@google/gemini-cli",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@mariozechner/pi-coding-agent",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "npm:@kilocode/cli",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "pypi:hermes-agent",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "pypi:aider-chat",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "github:openai/codex",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "ramp-monthly",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "vsx",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "router-coding",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "RAMPAIALL",
+      "detail": "[Errno 60] Operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained",
+      "status": "error"
+    },
+    {
+      "id": "RAMPAIANTHROPIC",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained",
+      "status": "error"
+    },
+    {
+      "id": "RAMPAIOPENAI",
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "retry": "CSV download retried; timed out again; last good history retained",
+      "status": "error"
+    },
+    {
+      "id": "ramp-token-price",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok",
+      "source": "https://ramp.com/data/ai-index",
+      "method": "Selected chart React props, full precision series and points",
+      "dataThrough": "2026-11-01"
+    },
+    {
+      "id": "ramp-token-volume",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok",
+      "source": "https://ramp.com/data/ai-index",
+      "method": "Selected chart React props, full precision series and points",
+      "dataThrough": "2026-11-01"
+    },
+    {
+      "id": "ramp-token-spend",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok",
+      "source": "https://ramp.com/data/ai-index",
+      "method": "Selected chart React props, full precision series and points",
+      "dataThrough": "2026-11-01"
+    },
+    {
+      "id": "router-top-models",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "ok",
+      "source": "https://openrouter.ai/rankings",
+      "method": "Top Models React props: all 53 supplied weekly buckets; forecast excluded",
+      "dataThrough": "2026-11-17"
+    },
+    {
+      "id": "c16",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "urls": [
+        "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "https://www.anthropic.com/news/s1-sec",
+        "https://www.anthropic.com/news/roadshow-launch",
+        "https://www.anthropic.com/news/series-h"
+      ],
+      "detail": "Latest company announcements reviewed; no new run-rate point found."
+    },
+    {
+      "id": "c17",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "urls": [
+        "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "https://www.anthropic.com/news/s1-sec",
+        "https://www.anthropic.com/news/roadshow-launch",
+        "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+      ],
+      "detail": "Latest company announcements and product metric anchor reviewed; no new Claude Code revenue point found."
+    },
+    {
+      "id": "c18",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "urls": [
+        "https://cursor.com/blog/joining-spacex",
+        "https://cursor.com/blog/topic/company"
+      ],
+      "detail": "Company index and acquisition announcement reviewed; no new verified ARR point."
+    },
+    {
+      "id": "c19",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "urls": [
+        "https://cognition.com/blog/1b-run-rate"
+      ],
+      "detail": "Company blog index and latest revenue announcement reviewed; 1B point already retained."
+    },
+    {
+      "id": "c22",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "urls": [
+        "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+      ],
+      "detail": "Latest Octoverse report unchanged: March 17%, September above 40%."
+    },
+    {
+      "id": "c21",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "status": "checked_no_new_verified_point",
+      "source": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "detail": "Browser retry succeeded. Latest earnings transcript has no new GitHub Copilot paid subscriber count; other product and usage metrics excluded."
+    },
+    {
+      "id": "c20",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "detail": "OpenAI news and Codex announcement returned HTTP 403; browser retry also 403. Latest disclosure review incomplete.",
+      "status": "error"
+    },
+    {
+      "id": "gitclear",
+      "checkedAt": "2026-11-19T00:05:30.494286+00:00",
+      "detail": "HTTP 403; browser retry security verification also 403. Raw series unavailable.",
+      "status": "error"
+    }
+  ],
+  "completedAt": "2026-11-19T00:05:30.494286+00:00",
+  "status": "partial_failure",
+  "archive": {
+    "added": 12,
+    "revised": 49,
+    "removed": 0,
+    "blocked": [],
+    "total": 11547
+  }
+}

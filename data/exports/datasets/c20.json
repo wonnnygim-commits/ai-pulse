@@ -38,7 +38,7 @@
       "point_label": "1.6M",
       "point_source": "https://openai.com/index/scaling-ai-for-everyone/",
       "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
-      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
+      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
     },
     {
       "dataset_id": "c20",
@@ -50,7 +50,7 @@
       "point_label": "2M 초과",
       "point_source": "https://openai.com/index/accelerating-the-next-phase-ai/",
       "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
-      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
+      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
     },
     {
       "dataset_id": "c20",
@@ -62,7 +62,7 @@
       "point_label": "5M 초과",
       "point_source": "https://openai.com/index/codex-for-knowledge-work/",
       "dataset_sources": "https://openai.com/index/scaling-ai-for-everyone/ | https://openai.com/index/accelerating-the-next-phase-ai/ | https://openai.com/index/codex-for-knowledge-work/",
-      "archive_version": "caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931"
+      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
     }
   ]
 }

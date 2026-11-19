@@ -1,5 +1,6 @@
 ﻿dataset_id,series_id,series,date,value,unit,point_label,point_source,dataset_sources,archive_version
-c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-12,27199,건,,,https://github.com/openai/codex/issues,caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931
-c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-16,27461,건,,,https://github.com/openai/codex/issues,caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931
-c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-17,27432,건,,,https://github.com/openai/codex/issues,caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931
-c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-18,27529,건,,,https://github.com/openai/codex/issues,caa828008d1f4f3155a8e20abbc08823b77abb9b501071ef02d4d69ae428d931
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-12,27199,건,,,https://github.com/openai/codex/issues,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-16,27461,건,,,https://github.com/openai/codex/issues,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-17,27432,건,,,https://github.com/openai/codex/issues,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-18,27529,건,,,https://github.com/openai/codex/issues,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
+c23,c23_d9cc1fa8e2d7605c,openai/codex,2026-11-19,27667,건,,,https://github.com/openai/codex/issues,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a

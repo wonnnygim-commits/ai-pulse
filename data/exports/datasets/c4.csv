@@ -1,121 +1,121 @@
 ﻿dataset_id,series_id,series,date,value,unit,point_label,point_source,dataset_sources,archive_version
-c4,c4_7cc8adc3a890f367,중앙값,2023-07-01,3.028571428571428,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2023-08-01,3,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2023-09-01,3.035784543325527,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2023-10-01,3.083782142857143,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2023-11-01,3.211192307692308,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2023-12-01,3.076923076923077,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-01-01,3.25,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-02-01,3.333333333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-03-01,3.512957079152731,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-04-01,3.361384615384615,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-05-01,3.501647727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-06-01,3.333333333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-07-01,3.441199494949495,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-08-01,3.34523316912972,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-09-01,3.390832708177044,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-10-01,3.529411764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-11-01,3.551148065238248,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2024-12-01,3.523809523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-01-01,3.7625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-02-01,4,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-03-01,4.256,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-04-01,4.015,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-05-01,4.259025369978858,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-06-01,4.401147058823528,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-07-01,4.705263157894737,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-08-01,5,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-09-01,5,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-10-01,5.318775,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-11-01,5.317083333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2025-12-01,5.443809523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-01-01,6.190254901960785,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-02-01,7.353504081058261,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-03-01,9.413352130325814,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-04-01,10.71428571428571,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-05-01,11.74405819738517,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-06-01,12.58089743589744,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-07-01,13.84713307776561,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-08-01,14.39197901049475,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-09-01,15.38461538461539,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_7cc8adc3a890f367,중앙값,2026-10-01,16.316327572663,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-07-01,51.19075,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-08-01,57.32333333333334,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-09-01,59.14037499999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-10-01,59.81263888888888,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-11-01,67.23921052631579,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-12-01,61.30769230769231,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-01-01,72.8,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-02-01,73.40384615384616,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-03-01,93.886,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-04-01,85.35875,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-05-01,94.21661538461538,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-06-01,89.59333333333332,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-07-01,95.51999999999998,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-08-01,89.69998120300752,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-09-01,93.33399999999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-10-01,97.39033333333334,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-11-01,90.65866666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-12-01,107.3944444444444,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-01-01,130.4011764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-02-01,124.4033333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-03-01,131.9035714285714,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-04-01,138.9278181818182,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-05-01,149.8541764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-06-01,157.9069230769231,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-07-01,181.76,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-08-01,187.6723913043478,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-09-01,196.47,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-10-01,221.9106,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-11-01,217.137,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-12-01,244.9624553571429,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-01-01,285.6816949152542,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-02-01,339.255,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-03-01,406.0425,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-04-01,457.1072523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-05-01,496.48625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-06-01,557.8664285714285,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-07-01,698.0131999999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-08-01,725.7666666666669,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-09-01,793.2503623188408,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-10-01,800.8363347249777,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-07-01,558.529880952381,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-08-01,843.9581666666667,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-09-01,822.4803431372549,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-10-01,840.4741666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-11-01,914.2094372727272,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-12-01,1044.999145299145,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-01-01,968.0798951048951,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-02-01,943.247027027027,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-03-01,1208.86075,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-04-01,1562.238333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-05-01,1236.542708333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-06-01,1280.645168067227,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-07-01,1549.68,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-08-01,1401.665,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-09-01,1419.905720454545,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-10-01,1340.215625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-11-01,1342.715631578948,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-12-01,1724.929727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-01-01,1872.352727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-02-01,1970.192666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-03-01,2191.613702489221,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-04-01,2373.086987179487,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-05-01,2251.73256923077,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-06-01,1923.000238095239,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-07-01,2335.500769230769,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-08-01,2433.328750000001,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-09-01,2470.775294117647,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-10-01,3194.685876623376,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-11-01,2774.005555555556,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-12-01,3982.237019607843,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-01-01,3230.037777777778,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-02-01,3210.469638554217,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-03-01,4810.693055555555,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-04-01,4614.273,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-05-01,5095.727672413793,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-06-01,6490.135251937983,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-07-01,9515.198717948719,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-08-01,8233.670133333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-09-01,9346.499791666663,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
-c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-10-01,10199.20045,USD / 직원 / 월,,,https://ramp.com/data/ai-index,51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a
+c4,c4_7cc8adc3a890f367,중앙값,2023-07-01,3.028571428571428,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2023-08-01,3,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2023-09-01,3.035784543325527,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2023-10-01,3.083782142857143,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2023-11-01,3.211192307692308,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2023-12-01,3.076923076923077,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-01-01,3.25,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-02-01,3.333333333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-03-01,3.512957079152731,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-04-01,3.361384615384615,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-05-01,3.501647727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-06-01,3.333333333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-07-01,3.441199494949495,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-08-01,3.34523316912972,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-09-01,3.390832708177044,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-10-01,3.529411764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-11-01,3.551148065238248,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2024-12-01,3.523809523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-01-01,3.7625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-02-01,4,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-03-01,4.256,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-04-01,4.015,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-05-01,4.259025369978858,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-06-01,4.401147058823528,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-07-01,4.705263157894737,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-08-01,5,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-09-01,5,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-10-01,5.318775,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-11-01,5.317083333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2025-12-01,5.443809523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-01-01,6.190254901960785,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-02-01,7.353504081058261,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-03-01,9.413352130325814,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-04-01,10.71428571428571,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-05-01,11.74405819738517,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-06-01,12.58089743589744,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-07-01,13.84713307776561,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-08-01,14.39197901049475,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-09-01,15.38461538461539,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_7cc8adc3a890f367,중앙값,2026-10-01,16.316327572663,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-07-01,51.19075,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-08-01,57.32333333333334,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-09-01,59.14037499999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-10-01,59.81263888888888,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-11-01,67.23921052631579,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2023-12-01,61.30769230769231,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-01-01,72.8,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-02-01,73.40384615384616,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-03-01,93.886,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-04-01,85.35875,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-05-01,94.21661538461538,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-06-01,89.59333333333332,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-07-01,95.51999999999998,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-08-01,89.69998120300752,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-09-01,93.33399999999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-10-01,97.39033333333334,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-11-01,90.65866666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2024-12-01,107.3944444444444,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-01-01,130.4011764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-02-01,124.4033333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-03-01,131.9035714285714,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-04-01,138.9278181818182,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-05-01,149.8541764705882,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-06-01,157.9069230769231,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-07-01,181.76,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-08-01,187.6723913043478,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-09-01,196.47,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-10-01,221.9106,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-11-01,217.137,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2025-12-01,244.9624553571429,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-01-01,285.6816949152542,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-02-01,339.255,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-03-01,406.0425,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-04-01,457.1072523809524,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-05-01,496.48625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-06-01,557.8664285714285,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-07-01,698.0131999999999,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-08-01,725.7666666666669,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-09-01,793.2503623188408,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_30be892ccde61855,상위 10% 기업 중앙값,2026-10-01,800.8363347249777,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-07-01,558.529880952381,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-08-01,843.9581666666667,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-09-01,822.4803431372549,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-10-01,840.4741666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-11-01,914.2094372727272,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2023-12-01,1044.999145299145,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-01-01,968.0798951048951,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-02-01,943.247027027027,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-03-01,1208.86075,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-04-01,1562.238333333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-05-01,1236.542708333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-06-01,1280.645168067227,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-07-01,1549.68,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-08-01,1401.665,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-09-01,1419.905720454545,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-10-01,1340.215625,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-11-01,1342.715631578948,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2024-12-01,1724.929727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-01-01,1872.352727272727,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-02-01,1970.192666666666,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-03-01,2191.613702489221,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-04-01,2373.086987179487,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-05-01,2251.73256923077,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-06-01,1923.000238095239,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-07-01,2335.500769230769,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-08-01,2433.328750000001,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-09-01,2470.775294117647,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-10-01,3194.685876623376,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-11-01,2774.005555555556,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2025-12-01,3982.237019607843,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-01-01,3230.037777777778,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-02-01,3210.469638554217,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-03-01,4810.693055555555,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-04-01,4614.273,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-05-01,5095.727672413793,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-06-01,6490.135251937983,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-07-01,9515.198717948719,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-08-01,8233.670133333333,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-09-01,9346.499791666663,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c4,c4_596d1b2744488eb5,상위 1% 기업 중앙값,2026-10-01,10199.20045,USD / 직원 / 월,,,https://ramp.com/data/ai-index,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b

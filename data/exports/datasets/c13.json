@@ -5,7 +5,7 @@
     "unit": "건",
     "kind": "line",
     "start": "2026-10-26",
-    "end": "2026-11-18",
+    "end": "2026-11-19",
     "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
     "sources": [
       {
@@ -14,7 +14,7 @@
       }
     ],
     "archive_status": "누적 보관",
-    "rows": 24,
+    "rows": 25,
     "series_count": 1,
     "csv": "datasets/c13.csv",
     "json": "datasets/c13.json"
@@ -30,7 +30,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -42,7 +42,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -54,7 +54,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -66,7 +66,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -78,7 +78,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -90,7 +90,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -102,7 +102,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -114,7 +114,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -126,7 +126,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -138,7 +138,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -150,7 +150,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -162,7 +162,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -174,7 +174,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -186,7 +186,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -198,7 +198,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -210,7 +210,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -222,7 +222,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -234,7 +234,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -246,7 +246,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -258,7 +258,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -270,7 +270,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -282,7 +282,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -294,7 +294,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     },
     {
       "dataset_id": "c13",
@@ -306,7 +306,19 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
-      "archive_version": "51220a31ee5f4c1097550def34b52c029d9e81f49e07dbfa2b537fb32d6c302a"
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+    },
+    {
+      "dataset_id": "c13",
+      "series_id": "c13_8a91b069ecf8c355",
+      "series": "Cline",
+      "date": "2026-11-19",
+      "value": 5987040,
+      "unit": "건",
+      "point_label": "",
+      "point_source": "",
+      "dataset_sources": "https://vsxatlas.com/extension/saoudrizwan.claude-dev?range=all",
+      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
     }
   ]
 }

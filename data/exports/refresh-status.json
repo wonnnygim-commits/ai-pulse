@@ -1,5 +1,5 @@
 {
-  "attemptedAt": "2026-11-20T00:00:14.744503+00:00",
+  "attemptedAt": "2026-11-21T00:00:14.398210+00:00",
   "ok": [
     "npm:@openai/codex",
     "npm:@anthropic-ai/claude-code",
@@ -12,282 +12,335 @@
     "github:anthropics/claude-code",
     "ramp-monthly",
     "vsx",
-    "router-coding",
-    "ramp-token-price",
-    "ramp-token-volume",
-    "ramp-token-spend",
-    "router-top-models"
+    "router-coding"
   ],
   "errors": [
     {
       "id": "RAMPAIALL",
-      "detail": "[Errno 60] Operation timed out",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "retry": "Failed again on direct CSV request; prior history retained"
+      "detail": "The read operation timed out",
+      "checkedAt": "2026-11-21T00:01:56.334977+00:00"
     },
     {
       "id": "RAMPAIANTHROPIC",
       "detail": "The read operation timed out",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "retry": "Failed again on direct CSV request; prior history retained"
+      "checkedAt": "2026-11-21T00:01:56.335352+00:00"
     },
     {
       "id": "RAMPAIOPENAI",
       "detail": "The read operation timed out",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "retry": "Failed again on direct CSV request; prior history retained"
+      "checkedAt": "2026-11-21T00:01:56.335459+00:00"
     },
     {
-      "id": "Codex weekly active",
-      "detail": "OpenAI HTTP 403 on HTTP and browser retries",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00"
+      "id": "microsoft",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "checkedAt": "2026-11-21T00:00:57.953732+00:00",
+      "status": "error",
+      "detail": "HTTP Error 403: Forbidden"
     },
     {
-      "id": "GitClear",
-      "detail": "Raw series inaccessible; HTTP and browser retries 403",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00"
-    }
-  ],
-  "agentReviewRequired": [
-    "Codex weekly active: accessible original source required",
-    "GitClear: raw series unavailable"
-  ],
-  "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-  "sourceChecks": [
-    {
-      "id": "npm:@openai/codex",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "npm:@anthropic-ai/claude-code",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "npm:@google/gemini-cli",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "npm:@mariozechner/pi-coding-agent",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "npm:@kilocode/cli",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "pypi:hermes-agent",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "pypi:aider-chat",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "github:openai/codex",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "github:anthropics/claude-code",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "ramp-monthly",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "vsx",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "router-coding",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "ramp-token-price",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "ramp-token-volume",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "ramp-token-spend",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "router-top-models",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "ok"
-    }
-  ],
-  "retryResults": [
-    {
-      "id": "anthropic-ipo",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "checkedAt": "2026-11-20T00:01:42.406554+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "anthropic-s1",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "checkedAt": "2026-11-20T00:01:42.409950+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "cursor-company",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "checkedAt": "2026-11-20T00:01:42.245696+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "cognition-latest",
-      "url": "https://cognition.com/blog/1b-run-rate",
-      "checkedAt": "2026-11-20T00:01:42.202248+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "github-latest",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "checkedAt": "2026-11-20T00:01:42.510745+00:00",
-      "status": "ok"
-    },
-    {
-      "id": "openai-retry",
-      "url": "https://openai.com/index/codex-for-knowledge-work/",
-      "checkedAt": "2026-11-20T00:01:42.124232+00:00",
+      "id": "gitclear",
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "checkedAt": "2026-11-21T00:00:58.634987+00:00",
       "status": "error",
       "detail": "HTTP Error 403: Forbidden"
     },
     {
       "id": "microsoft-retry",
-      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
-      "checkedAt": "2026-11-20T00:01:42.315163+00:00",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
+      "checkedAt": "2026-11-21T00:01:47.060834+00:00",
       "status": "error",
       "detail": "HTTP Error 403: Forbidden"
     },
     {
       "id": "gitclear-retry",
       "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
-      "checkedAt": "2026-11-20T00:01:42.251713+00:00",
+      "checkedAt": "2026-11-21T00:01:47.060882+00:00",
+      "status": "error",
+      "detail": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "agentReviewRequired": [
+    "GitHub Copilot paid: latest Microsoft earnings inaccessible",
+    "GitClear raw data inaccessible"
+  ],
+  "checks": [
+    {
+      "id": "npm:@openai/codex",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "npm:@anthropic-ai/claude-code",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "npm:@google/gemini-cli",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "npm:@mariozechner/pi-coding-agent",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "npm:@kilocode/cli",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "pypi:hermes-agent",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "pypi:aider-chat",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "github:openai/codex",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "github:anthropics/claude-code",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "ramp-monthly",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "vsx",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "router-coding",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:00:14.398210+00:00"
+    },
+    {
+      "id": "ramp-token-price",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "dataThrough": "2026-11-17",
+      "method": "Selected chart React props; price=Blended, volume/spend=By model maker"
+    },
+    {
+      "id": "ramp-token-volume",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "dataThrough": "2026-11-15",
+      "method": "Selected chart React props; price=Blended, volume/spend=By model maker"
+    },
+    {
+      "id": "ramp-token-spend",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "dataThrough": "2026-11-15",
+      "method": "Selected chart React props; price=Blended, volume/spend=By model maker"
+    },
+    {
+      "id": "router-top-models",
+      "status": "ok",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "periods": 53,
+      "method": "Full Top Models React data prop; forecasts excluded"
+    },
+    {
+      "id": "ramp",
+      "url": "https://ramp.com/data/ai-index",
+      "checkedAt": "2026-11-21T00:00:57.953015+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "router",
+      "url": "https://openrouter.ai/rankings",
+      "checkedAt": "2026-11-21T00:00:57.953380+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "anthropic",
+      "url": "https://www.anthropic.com/news",
+      "checkedAt": "2026-11-21T00:00:57.953477+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "cursor",
+      "url": "https://cursor.com/blog",
+      "checkedAt": "2026-11-21T00:00:57.953539+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "cognition",
+      "url": "https://cognition.com/blog",
+      "checkedAt": "2026-11-21T00:00:57.953594+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "openai",
+      "url": "https://openai.com/news/",
+      "checkedAt": "2026-11-21T00:00:57.953642+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "codex",
+      "url": "https://openai.com/index/codex-for-knowledge-work/",
+      "checkedAt": "2026-11-21T00:00:57.953689+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "microsoft",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
+      "checkedAt": "2026-11-21T00:00:57.953732+00:00",
+      "status": "error",
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "github",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "checkedAt": "2026-11-21T00:00:58.396556+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "gitclear",
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "checkedAt": "2026-11-21T00:00:58.634987+00:00",
+      "status": "error",
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "anthropic-ipo",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "checkedAt": "2026-11-21T00:01:47.059992+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "anthropic-s1",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "checkedAt": "2026-11-21T00:01:47.060612+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "cursor-company",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "checkedAt": "2026-11-21T00:01:47.060716+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "cognition-latest",
+      "url": "https://cognition.com/blog/1b-run-rate",
+      "checkedAt": "2026-11-21T00:01:47.060778+00:00",
+      "status": "ok"
+    },
+    {
+      "id": "microsoft-retry",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast",
+      "checkedAt": "2026-11-21T00:01:47.060834+00:00",
+      "status": "error",
+      "detail": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "gitclear-retry",
+      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
+      "checkedAt": "2026-11-21T00:01:47.060882+00:00",
       "status": "error",
       "detail": "HTTP Error 403: Forbidden"
     },
     {
       "id": "RAMPAIALL",
+      "checkedAt": "2026-11-21T00:01:56.334977+00:00",
       "status": "error",
       "detail": "The read operation timed out"
     },
     {
       "id": "RAMPAIANTHROPIC",
+      "checkedAt": "2026-11-21T00:01:56.335352+00:00",
       "status": "error",
       "detail": "The read operation timed out"
     },
     {
       "id": "RAMPAIOPENAI",
+      "checkedAt": "2026-11-21T00:01:56.335459+00:00",
       "status": "error",
       "detail": "The read operation timed out"
-    }
-  ],
-  "browserRetries": [
-    {
-      "id": "codex",
-      "url": "https://openai.com/news/",
-      "status": 403
-    },
-    {
-      "id": "copilot",
-      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1",
-      "status": 200
-    },
-    {
-      "id": "gitclear",
-      "url": "https://www.gitclear.com/industry_stats/ai_code_quality_signal_graphs",
-      "status": 403
     }
   ],
   "disclosureReviews": [
     {
       "id": "c16",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
+      "metric": "Anthropic revenue",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
       "status": "checked",
-      "detail": "Newsroom, IPO and S-1 announcements checked; no verified new run-rate point.",
-      "url": "https://www.anthropic.com/news"
+      "detail": "News index, IPO close and S-1 announcement reviewed; no new comparable run-rate point verified."
     },
     {
       "id": "c17",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
+      "metric": "Claude Code revenue",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
       "status": "checked",
-      "detail": "Same Anthropic original releases reviewed; no new Claude Code revenue point.",
-      "url": "https://www.anthropic.com/news"
+      "detail": "Anthropic news reviewed; no new product run-rate point verified."
     },
     {
       "id": "c18",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
+      "metric": "Cursor ARR",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
       "status": "checked",
-      "detail": "Blog and acquisition announcement reviewed; no new first-party ARR; linked Bloomberg estimate excluded.",
-      "url": "https://cursor.com/blog"
+      "detail": "Blog and joining SpaceX announcement reviewed; third-party Bloomberg estimate excluded."
     },
     {
       "id": "c19",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
+      "metric": "Cognition revenue",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
       "status": "checked",
-      "detail": "Blog and September 25 1B announcement checked; unchanged.",
-      "url": "https://cognition.com/blog/1b-run-rate"
+      "detail": "Blog and latest $1B announcement checked; existing observation retained."
     },
     {
       "id": "c20",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "failed",
-      "detail": "Newsroom and original announcement HTTP 403; browser retry also 403.",
-      "url": "https://openai.com/news/"
+      "metric": "Codex weekly active",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "status": "checked",
+      "detail": "OpenAI news and original 5M announcement checked; existing observation retained."
     },
     {
       "id": "c21",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
-      "status": "checked",
-      "detail": "FY2027 Q1 transcript reviewed via browser HTTP 200; no paid subscriber count; model-specific monthly users excluded.",
-      "url": "https://www.microsoft.com/en-us/investor/events/fy-2027/earnings-fy-2027-q1"
+      "metric": "GitHub Copilot paid",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
+      "status": "failed",
+      "detail": "Latest Microsoft earnings endpoints returned HTTP 403, including retry; old points retained."
     },
     {
       "id": "c22",
-      "checkedAt": "2026-11-20T00:03:10.057852+00:00",
+      "metric": "GitHub agent PR share",
+      "checkedAt": "2026-11-21T00:04:28.372472+00:00",
       "status": "checked",
-      "detail": "Octoverse list and original article checked: March 17%, September above 40%, unchanged. Microsoft agent-opened PR statement not spliced into agent-first-draft metric.",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+      "detail": "Original Octoverse report checked; September >40% and March 17% unchanged."
     }
   ],
-  "status": "partial_failure",
-  "completedAt": "2026-11-20T00:03:10.057852+00:00",
-  "archiveResult": {
-    "added": 60,
-    "revised": 2040,
-    "removed": 0,
-    "blocked": [
-      {
-        "id": "c1",
-        "reason": "index_overlap_changed_review_required",
-        "changes": 567
-      },
-      {
-        "id": "c2",
-        "reason": "index_overlap_changed_review_required",
-        "changes": 568
-      }
-    ]
+  "status": "partial",
+  "completedAt": "2026-11-21T00:04:28.372472+00:00",
+  "quarantines": [
+    {
+      "id": "c1",
+      "reason": "index_overlap_changed_review_required",
+      "changedPoints": 567
+    },
+    {
+      "id": "c2",
+      "reason": "index_overlap_changed_review_required",
+      "changedPoints": 568
+    }
+  ],
+  "archiveChanges": {
+    "addedKeys": 277,
+    "revisedValues": 163,
+    "removedKeys": 106,
+    "totalObservations": 11778,
+    "replacementNote": "106 old c26 series/date keys replaced by the source weekly top-nine + Others decomposition; prior vintages remain in immutable snapshots. No source history files deleted."
   }
 }

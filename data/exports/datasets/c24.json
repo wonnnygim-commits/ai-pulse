@@ -5,7 +5,7 @@
     "unit": "건",
     "kind": "events",
     "start": "2026-11-12",
-    "end": "2026-11-20",
+    "end": "2026-11-21",
     "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
     "sources": [
       {
@@ -14,7 +14,7 @@
       }
     ],
     "archive_status": "누적 보관",
-    "rows": 6,
+    "rows": 7,
     "series_count": 1,
     "csv": "datasets/c24.csv",
     "json": "datasets/c24.json"
@@ -30,7 +30,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     },
     {
       "dataset_id": "c24",
@@ -42,7 +42,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     },
     {
       "dataset_id": "c24",
@@ -54,7 +54,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     },
     {
       "dataset_id": "c24",
@@ -66,7 +66,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     },
     {
       "dataset_id": "c24",
@@ -78,7 +78,7 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     },
     {
       "dataset_id": "c24",
@@ -90,7 +90,19 @@
       "point_label": "",
       "point_source": "",
       "dataset_sources": "https://github.com/anthropics/claude-code/issues",
-      "archive_version": "237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b"
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
+    },
+    {
+      "dataset_id": "c24",
+      "series_id": "c24_48179362e46afbbc",
+      "series": "anthropics/claude-code",
+      "date": "2026-11-21",
+      "value": 15304,
+      "unit": "건",
+      "point_label": "",
+      "point_source": "",
+      "dataset_sources": "https://github.com/anthropics/claude-code/issues",
+      "archive_version": "88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6"
     }
   ]
 }

@@ -1,7 +1,8 @@
 ﻿dataset_id,series_id,series,date,value,unit,point_label,point_source,dataset_sources,archive_version
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-12,16342,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-16,16353,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-17,16352,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-18,16440,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-19,16451,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
-c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-20,16414,건,,,https://github.com/anthropics/claude-code/issues,237ef5fe5739d14f84949f64493cc9053d76c909b6831690fd293b945f00ea6b
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-12,16342,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-16,16353,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-17,16352,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-18,16440,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-19,16451,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-20,16414,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6
+c24,c24_48179362e46afbbc,anthropics/claude-code,2026-11-21,15304,건,,,https://github.com/anthropics/claude-code/issues,88b939abc7463235e9466b21746104df3ac45f2224534cd3a957a4b7d1b79ac6

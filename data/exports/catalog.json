@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archive_updated_at": "2026-11-20T00:03:10.159869+00:00",
+  "archive_updated_at": "2026-11-21T00:04:28.825012+00:00",
   "datasets": [
     {
       "id": "c1",
@@ -49,7 +49,7 @@
       "kind": "stacked",
       "start": "2025-11-10",
       "end": "2026-11-16",
-      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-16; retrieved 2026-11-20T00:03:10.057852+00:00. Licensed under CC BY 4.0. T 단위로 환산.",
+      "note": "OpenRouter 경유 공개 트래픽의 입력+출력 토큰. 주별 상위 9개와 Others; 미선정 모델의 개별 값은 결측이며 Others에 포함. 마지막 주 부분 집계, 원본 forecast는 제외. Source: OpenRouter (openrouter.ai/rankings), data through 2026-11-19; retrieved 2026-11-21T00:04:28.372472+00:00. Licensed under CC BY 4.0. T 단위로 환산.",
       "sources": [
         {
           "name": "OpenRouter Rankings",
@@ -61,8 +61,8 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 3835,
-      "series_count": 73,
+      "rows": 3994,
+      "series_count": 76,
       "csv": "datasets/c26.csv",
       "json": "datasets/c26.json"
     },
@@ -136,7 +136,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2025-04-22",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 패키지 공개 이후 전체 일별 자료의 7일 합계.",
       "sources": [
         {
@@ -145,7 +145,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 576,
+      "rows": 577,
       "series_count": 1,
       "csv": "datasets/c5.csv",
       "json": "datasets/c5.json"
@@ -156,7 +156,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2025-03-02",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 패키지 공개 이후 전체 일별 자료의 7일 합계.",
       "sources": [
         {
@@ -165,7 +165,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 627,
+      "rows": 628,
       "series_count": 1,
       "csv": "datasets/c6.csv",
       "json": "datasets/c6.json"
@@ -176,7 +176,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2025-07-01",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 패키지 공개 이후 전체 일별 자료의 7일 합계.",
       "sources": [
         {
@@ -185,7 +185,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 506,
+      "rows": 507,
       "series_count": 1,
       "csv": "datasets/c7.csv",
       "json": "datasets/c7.json"
@@ -196,7 +196,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2025-11-18",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 패키지 공개 이후 전체 일별 자료의 7일 합계.",
       "sources": [
         {
@@ -205,7 +205,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 366,
+      "rows": 367,
       "series_count": 1,
       "csv": "datasets/c8.csv",
       "json": "datasets/c8.json"
@@ -216,7 +216,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2025-10-19",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 패키지 공개 이후 전체 일별 자료의 7일 합계.",
       "sources": [
         {
@@ -225,7 +225,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 396,
+      "rows": 397,
       "series_count": 1,
       "csv": "datasets/c9.csv",
       "json": "datasets/c9.json"
@@ -236,7 +236,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2026-05-14",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 공개 API가 반환한 전체 보존 구간. 이전 이력은 미확보.",
       "sources": [
         {
@@ -245,7 +245,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 189,
+      "rows": 190,
       "series_count": 1,
       "csv": "datasets/c10.csv",
       "json": "datasets/c10.json"
@@ -256,7 +256,7 @@
       "unit": "건 / 최근 7일",
       "kind": "line",
       "start": "2026-04-14",
-      "end": "2026-11-18",
+      "end": "2026-11-19",
       "note": "설치·업데이트·CI를 포함하며 사용자 수가 아닙니다. 공개 API가 반환한 전체 보존 구간. 이전 이력은 미확보.",
       "sources": [
         {
@@ -265,7 +265,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 219,
+      "rows": 220,
       "series_count": 1,
       "csv": "datasets/c11.csv",
       "json": "datasets/c11.json"
@@ -276,7 +276,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-19",
+      "end": "2026-11-20",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -285,7 +285,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 25,
+      "rows": 26,
       "series_count": 1,
       "csv": "datasets/c12.csv",
       "json": "datasets/c12.json"
@@ -296,7 +296,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-19",
+      "end": "2026-11-20",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -305,7 +305,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 25,
+      "rows": 26,
       "series_count": 1,
       "csv": "datasets/c13.csv",
       "json": "datasets/c13.json"
@@ -316,7 +316,7 @@
       "unit": "건",
       "kind": "line",
       "start": "2026-10-26",
-      "end": "2026-11-19",
+      "end": "2026-11-20",
       "note": "Microsoft 원본 과거 API 미확보. 독립 관측 서비스의 2026-10-26 이후 이력만 표시.",
       "sources": [
         {
@@ -325,7 +325,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 25,
+      "rows": 26,
       "series_count": 1,
       "csv": "datasets/c14.csv",
       "json": "datasets/c14.json"
@@ -548,7 +548,7 @@
       "unit": "건",
       "kind": "events",
       "start": "2026-11-12",
-      "end": "2026-11-20",
+      "end": "2026-11-21",
       "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
       "sources": [
         {
@@ -557,7 +557,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 6,
+      "rows": 7,
       "series_count": 1,
       "csv": "datasets/c23.csv",
       "json": "datasets/c23.json"
@@ -568,7 +568,7 @@
       "unit": "건",
       "kind": "events",
       "start": "2026-11-12",
-      "end": "2026-11-20",
+      "end": "2026-11-21",
       "note": "과거 재개방·삭제 이력을 복원할 수 없어 수집된 시점만 표시. 사용자 수 아님.",
       "sources": [
         {
@@ -577,7 +577,7 @@
         }
       ],
       "archive_status": "누적 보관",
-      "rows": 6,
+      "rows": 7,
       "series_count": 1,
       "csv": "datasets/c24.csv",
       "json": "datasets/c24.json"
